@@ -25,14 +25,3 @@ A public Phobos 1.9.0 SRC edit by a person called "Perry" he occasionally works 
   ViewModel. <br>
   And much more stuff thats all i think of off the top of my head. <br><br>
 </details>
-
-Building the client: Make sure you have Gradle installed correctly!
-1: Go into the file that you want to build and copy the path in the first folder.
-2: Go into cmd(Command Prompt) and type this: cd
-3: Now, put a space then paste the path then press enter.
-4: Now cmd is connected to the path so now, type this: gradlew build/gradle build (doesn't matter)
-5: this will run for awhile so be patient.
-6: If the green text that pops up that says Build Successful, that means its finished building.
-7: Now, head to the file that was built. then go to builds and the .jar should be there!
-8: plop it into your mods folder, make sure you have forge 1.12.2 installed in the launcher and you should be good!
-:D
